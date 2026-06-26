@@ -1,32 +1,38 @@
 class Solution {
 public:
-    long long requiredTime(vector<int> nums , int m){
-        long long temp = 0;
-        for(int i =0;i<nums.size();i++){
-            temp += (nums[i] + m - 1) / m;
-        }
-        return temp;
-    }
-    int minEatingSpeed(vector<int>& nums, int h) {
-        int n = nums.size();
-        int maxNum = 0;
-        for(int x : nums){
-            maxNum = max(x,  maxNum);
-        }
 
-        int low =1;
-        int high = maxNum;
-        int ans =INT_MAX;
-
-        while(low <= high){
-            int mid = low + (high - low)/2;
-            if(requiredTime(nums , mid)<=h) {
-                ans = mid;
-                high =mid-1;
+    bool funcX(const vector<int>& piles,int mid, int h)
+    {
+        long long time =0;
+            for (int p : piles)
+            {
+                time +=(p+mid-1)/mid;
+                // Adding mid -1 so that this will automatically gives celing instead of floor in CPP.
             }
-            
-            else low =mid+1;
+        return time<=h;
+    }
+
+    int minEatingSpeed(vector<int>& piles, int h) {
+        int lo = 1;
+        int hi = *max_element(piles.begin(),piles.end());
+        int ans =hi;
+
+        std::cout<<hi<<std::endl;
+
+        while (lo<=hi)
+        {
+            int mid = lo+(hi-lo)/2;
+            if(funcX(piles,mid,h))
+            {
+                ans = mid;
+                hi = mid-1;
+            }
+            else
+            {
+                lo = mid+1;
+            }
         }
-        return ans ;
+
+        return ans;
     }
 };
