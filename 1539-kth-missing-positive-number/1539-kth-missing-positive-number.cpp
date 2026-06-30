@@ -2,14 +2,24 @@ class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) {
         int n = arr.size();
-        int cnt =k;
-        for (int i = 0; i < n; i++) {
-            if (arr[i] <= k) {
-                k++;  // If current number is less than or equal to k, increment k
+          int low = 0, high = n - 1;
+
+        // Perform binary search
+        while (low <= high) {
+            int mid = (low + high) / 2;
+
+            // Calculate how many numbers are missing till vec[mid]
+            int missing = arr[mid] - (mid + 1);
+
+            if (missing < k) {
+                low = mid + 1;  // Move right to find more missing numbers
             } else {
-                break; // Stop when we reach a number greater than k
+                high = mid - 1; // Move left to find a smaller valid index
             }
         }
-        return k;
+
+        // After loop, 'high' points to the largest index such that
+        // number of missing elements till there < k
+        return k + high + 1;
     }
 };
