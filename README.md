@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0141-linked-list-cycle) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
