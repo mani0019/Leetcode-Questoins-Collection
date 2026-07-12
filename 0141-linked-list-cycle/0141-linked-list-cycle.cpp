@@ -8,20 +8,21 @@
  */
 class Solution {
 public:
-    bool hasCycle(ListNode *head) {
-        if(head==nullptr|| head->next ==nullptr ) return false;
-        ListNode *tempSlow = head;
-        ListNode *tempFast = head;
+    bool hasCycle(ListNode* head) {
+        if (head == nullptr || head->next == nullptr)
+            return false;
+        ListNode* tempSlow = head;
+        ListNode* tempFast = head;
 
-        while(tempFast!=nullptr && tempFast->next!=nullptr){
-             
+        while (tempFast != nullptr && tempFast->next != nullptr) {
+
             tempSlow = tempSlow->next;
             tempFast = tempFast->next->next;
-          
-            if(tempFast == tempSlow) return true;
+
+            if (tempFast == tempSlow)
+                return true;
         }
 
         return false;
-        
     }
 };
