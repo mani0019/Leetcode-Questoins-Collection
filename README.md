@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
