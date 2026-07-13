@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0022-generate-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0018-4sum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
