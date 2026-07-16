@@ -2,6 +2,7 @@ class Solution {
 public:
     void help(int i , int k ,int n , int sumTillNow ,vector<vector<int>>&ans , vector<int>&subset){
         if(k<0) return;
+        if(sumTillNow > n) return;
         if(k ==0){
             if(sumTillNow ==n){
                 ans.push_back(subset);
