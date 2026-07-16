@@ -3,9 +3,8 @@ public:
     void help(int idx, vector<int> nums, vector<vector<int>>& ans,
               vector<int>& ds, int tar) {
         if (tar == 0) {
-            if (tar == 0) {
                 ans.push_back(ds);
-            }
+            
             return;
         }
         if (idx > nums.size() - 1)
