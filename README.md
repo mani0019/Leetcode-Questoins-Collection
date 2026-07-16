@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0240-search-a-2d-matrix-ii) |
@@ -144,9 +145,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0022-generate-parentheses) |
+| [0090-subsets-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0216-combination-sum-iii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
