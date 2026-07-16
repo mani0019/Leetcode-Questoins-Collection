@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0875-koko-eating-bananas) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0022-generate-parentheses) |
+| [0216-combination-sum-iii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0216-combination-sum-iii) |
 ## Merge Sort
 |  |
 | ------- |
