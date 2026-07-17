@@ -3,12 +3,9 @@ public:
 
     
 
-    vector<string> mp = {
-        "", "", "abc", "def", "ghi",
-        "jkl", "mno", "pqrs", "tuv", "wxyz"
-    };
+   
 
-    void solve(int idx, string &digits, string temp,vector<string>&ans) {
+    void solve(int idx, string &digits, string temp,vector<string>&ans, vector<string> mp) {
 
         if (idx == digits.size()) {
             ans.push_back(temp);
@@ -18,7 +15,7 @@ public:
         string letters = mp[digits[idx] - '0'];
 
         for (char ch : letters) {
-            solve(idx + 1, digits, temp + ch,ans);
+            solve(idx + 1, digits, temp + ch,ans,mp);
         }
     }
 
@@ -27,8 +24,12 @@ public:
         if (digits.empty())
             return {};
             vector<string> ans;
+             vector<string> mp = {
+        "", "", "abc", "def", "ghi",
+        "jkl", "mno", "pqrs", "tuv", "wxyz"
+    };
 
-        solve(0, digits, "",ans);
+        solve(0, digits, "",ans,mp);
 
         return ans;
     }
