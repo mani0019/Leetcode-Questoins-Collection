@@ -1,14 +1,14 @@
 class Solution {
 public:
 
-    vector<string> ans;
+    
 
     vector<string> mp = {
         "", "", "abc", "def", "ghi",
         "jkl", "mno", "pqrs", "tuv", "wxyz"
     };
 
-    void solve(int idx, string &digits, string temp) {
+    void solve(int idx, string &digits, string temp,vector<string>&ans) {
 
         if (idx == digits.size()) {
             ans.push_back(temp);
@@ -18,7 +18,7 @@ public:
         string letters = mp[digits[idx] - '0'];
 
         for (char ch : letters) {
-            solve(idx + 1, digits, temp + ch);
+            solve(idx + 1, digits, temp + ch,ans);
         }
     }
 
@@ -26,8 +26,9 @@ public:
 
         if (digits.empty())
             return {};
+            vector<string> ans;
 
-        solve(0, digits, "");
+        solve(0, digits, "",ans);
 
         return ans;
     }
