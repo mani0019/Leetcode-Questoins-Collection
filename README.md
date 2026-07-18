@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
