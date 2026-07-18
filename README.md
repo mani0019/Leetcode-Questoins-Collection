@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0240-search-a-2d-matrix-ii) |
+| [0496-next-greater-element-i](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
