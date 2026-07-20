@@ -2,22 +2,39 @@ class Solution {
 public:
     long long subArrayRanges(vector<int>& nums) {
         int n = nums.size();
-        long long sum = 0;
-        for(int i =0;i< n ;i++){
-            int maxi = nums[i];
-            int mini = nums[i];
-            for(int j =i;j<n;j++){
-                
-                maxi = max(maxi , nums[j]);
-                mini = min(mini , nums[j]);
-                            sum+= maxi - mini;
+        long long minSum = 0, maxSum = 0;
+        stack<int> st;
 
+        // Sum of minimums
+        for (int i = 0; i <= n; i++) {
+            while (!st.empty() && (i == n || nums[st.top()] >= nums[i])) {
+                int mid = st.top();
+                st.pop();
 
-                
+                int left = st.empty() ? -1 : st.top();
+                int right = i;
+
+                minSum += 1LL * nums[mid] * (mid - left) * (right - mid);
             }
+            st.push(i);
         }
 
-        
-        return sum;
+        while (!st.empty()) st.pop();
+
+        // Sum of maximums
+        for (int i = 0; i <= n; i++) {
+            while (!st.empty() && (i == n || nums[st.top()] <= nums[i])) {
+                int mid = st.top();
+                st.pop();
+
+                int left = st.empty() ? -1 : st.top();
+                int right = i;
+
+                maxSum += 1LL * nums[mid] * (mid - left) * (right - mid);
+            }
+            st.push(i);
+        }
+
+        return maxSum - minSum;
     }
 };
