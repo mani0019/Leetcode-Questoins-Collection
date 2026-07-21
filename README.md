@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0496-next-greater-element-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0189-rotate-array) |
 | [1922-count-good-numbers](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1922-count-good-numbers) |
 ## Matrix
 |  |
