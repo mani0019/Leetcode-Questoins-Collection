@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0875-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0496-next-greater-element-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0930-binary-subarrays-with-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
@@ -214,9 +216,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0930-binary-subarrays-with-sum](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
