@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0283-move-zeroes) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0022-generate-parentheses) |
+| [0198-house-robber](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
