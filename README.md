@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2104-sum-of-subarray-ranges](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/2104-sum-of-subarray-ranges) |
+| [2326-spiral-matrix-iv](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1901-find-a-peak-element-ii) |
+| [2326-spiral-matrix-iv](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/2326-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0735-asteroid-collision) |
+| [2326-spiral-matrix-iv](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/2326-spiral-matrix-iv) |
 ## Sliding Window
 |  |
 | ------- |
