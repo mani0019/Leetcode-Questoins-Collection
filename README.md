@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0992-subarrays-with-k-different-integers) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1004-max-consecutive-ones-iii) |
