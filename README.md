@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0198-house-robber) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0136-single-number) |
 ## Design
 |  |
 | ------- |
