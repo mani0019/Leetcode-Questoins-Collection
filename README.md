@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0136-single-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1901-find-a-peak-element-ii) |
 | [2326-spiral-matrix-iv](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/2326-spiral-matrix-iv) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0735-asteroid-collision) |
 | [2326-spiral-matrix-iv](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/2326-spiral-matrix-iv) |
 ## Sliding Window
