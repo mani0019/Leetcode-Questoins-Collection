@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1251-average-selling-price) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1757-recyclable-and-low-fat-products](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1934-confirmation-rate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
