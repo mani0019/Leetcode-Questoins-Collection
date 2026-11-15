@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0875-koko-eating-bananas) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1004-max-consecutive-ones-iii) |
