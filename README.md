@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0136-single-number) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0169-majority-element) |
 ## Backtracking
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
