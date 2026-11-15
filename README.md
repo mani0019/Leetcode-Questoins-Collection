@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/1021-remove-outermost-parentheses) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0560-subarray-sum-equals-k) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/mani0019/Leetcode-Questoins-Collection/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
